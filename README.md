@@ -1,3 +1,3 @@
-# project1-demo
-this is my first repository
-author - Om Deshmukh
+# Project1-demo
+This is my first repository.
+Author - Om Deshmukh 
